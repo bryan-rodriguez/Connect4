@@ -18,6 +18,7 @@ maxconnect4.py, MaxConnect4Game.py, input_file and output_file are in the same d
 
 (Linux)
 python3 maxconnect4.py interative [input_file] [computer-next/human-next] [depth]
+
 python3 maxconnect4.py one-move [input_file] [output_file] [depth]
 
 or
@@ -27,4 +28,5 @@ open command prompt on Windows 10, navigate to where
 maxconnect4.py, MaxConnect4Game.py, input_file and output_file are in the same directory, run
 
 python maxconnect4.py interative [input_file] [computer-next/human-next] [depth]
+
 python maxconnect4.py one-move [input_file] [output_file] [depth]

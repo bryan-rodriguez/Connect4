@@ -13,10 +13,11 @@ The purpose of the one-move mode is to make it easy for programs to compete agai
 Programming language: Python 3.9, tested on a linux-based OS running Python 3.8.5 and on Windows 10 Python 3.9.2
 
 How to run: 
+
+(Linux)
 open terminal on a linux based OS, navigate to where 
 maxconnect4.py, MaxConnect4Game.py, input_file and output_file are in the same directory, than run
 
-(Linux)
 python3 maxconnect4.py interative [input_file] [computer-next/human-next] [depth]
 
 python3 maxconnect4.py one-move [input_file] [output_file] [depth]
